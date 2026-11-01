@@ -12,11 +12,11 @@ dsh-superagent 是一个面向单个 GitHub 仓库的主动式编码智能体，
 
 安装步骤较多，因此由智能体与你一起完成。请对你的编码智能体说：
 
-> Read SETUP.md in this repository and set up dsh-superagent with me.
+> Read SETUP-zh.md in this repository and set up dsh-superagent with me.
 >
-> （译：阅读本仓库中的 SETUP.md，和我一起安装配置 dsh-superagent。）
+> （译：阅读本仓库中的 SETUP-zh.md，和我一起安装配置 dsh-superagent。）
 
-它会一次只问一个简短的问题，先完整展示一遍计划，然后安装并配置好全部内容。它所遵循的就是 [SETUP.md](SETUP.md)。
+它会一次只问一个简短的问题，先完整展示一遍计划，然后安装并配置好全部内容。它所遵循的就是 [SETUP-zh.md](SETUP-zh.md)。
 
 ## 文档
 
